@@ -1,15 +1,9 @@
 {
   "name": "mep-utilities.break-word",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Break Word Utility",
   "main": "stylesheets/_utility-break-word.scss",
-  "eyeglass": {
-    "needs": "^1.0.0",
-    "name": "utility-break-word",
-    "exports": "eyeglass-exports.js"
-  },
   "keywords": [
-    "eyeglass-module",
     "sass",
     "mise-en-place"
   ],
